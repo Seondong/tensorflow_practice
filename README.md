@@ -1,3 +1,3 @@
-### TensorFlow Practice by Sundong Kim
-Let's enjoy!!!
-
+### TensorFlow Practice
+> Let's enjoy!!!
+> DEEP LEARNING!
